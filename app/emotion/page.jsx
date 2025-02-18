@@ -17,7 +17,7 @@ const getEmotionEmoji = (emotion) => {
   return emotionMap[emotion] || "❓";
 };
 
-export default function page() {
+export default function Page() {
   const [inputText, setInputText] = useState("");
   const [response, setResponse] = useState(null);
   const [loading, setLoading] = useState(false);

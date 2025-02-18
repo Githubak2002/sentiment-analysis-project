@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Chart from "react-apexcharts";
 import { Brain, Loader2, RefreshCw, Send } from "lucide-react";
 
-export default function page() {
+export default function Page() {
   const [inputText, setInputText] = useState("");
   const [response, setResponse] = useState(null);
   const [loading, setLoading] = useState(false);
