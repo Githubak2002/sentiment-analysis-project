@@ -158,7 +158,7 @@ const mentors = [
               Shaping the Future of<br />Mental Wellness
             </h1>
             <p className="text-xl md:text-2xl max-w-3xl mx-auto leading-relaxed">
-              At Wellmind Junction, we're building bridges between technology and mental healthcare,
+              At Wellmind Junction, we&apos;re building bridges between technology and mental healthcare,
               creating a world where support is just a click away.
             </p>
             <div className="mt-10">
@@ -191,12 +191,12 @@ const mentors = [
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
                 Wellmind Junction began with a simple revelation: technology could bridge the gap in
-                mental healthcare that we experienced firsthand. Our founders' personal struggles with
+                mental healthcare that we experienced firsthand. Our founders&apos; personal struggles with
                 accessing quality mental health resources inspired a mission to create tools that we
                 wished had existed during our own journeys.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Today, we're a team of engineers, designers, and mental health advocates united by the
+                Today, we&apos;re a team of engineers, designers, and mental health advocates united by the
                 belief that everyone deserves access to evidence-based mental wellness tools—
                 regardless of location, background, or resources.
               </p>
@@ -242,9 +242,9 @@ const mentors = [
               className="text-xl text-gray-700 leading-relaxed italic mb-12 border-l-4 border-blue-500 
                          pl-6 py-2 bg-white shadow-md rounded-r-lg"
             >
-              "We envision a world where mental health support is as normal and accessible as physical
+              &quot;We envision a world where mental health support is as normal and accessible as physical
               healthcare—where technology becomes the bridge between awareness and action, and where
-              every person has the tools they need to thrive."
+              every person has the tools they need to thrive.&quot;
             </p>
           </motion.div>
 
@@ -601,10 +601,10 @@ const mentors = [
                 Empowering Minds, One Step at a Time
               </h2>
               <p className="text-xl text-blue-100 mb-8 leading-relaxed">
-                "Mental health is a journey, not a destination. Let's walk together."
+              &quot;Mental health is a journey, not a destination. Let&apos;s walk together.&quot;
               </p>
               <p className="text-lg text-blue-100 mb-8">
-                We're committed to creating a world where:
+                We&apos;re committed to creating a world where:
               </p>
               <ul className="space-y-4 text-blue-100">
                 <li className="flex items-start">
@@ -689,7 +689,7 @@ const mentors = [
             <span className="text-blue-600 uppercase tracking-wider font-medium">Our Impact</span>
             <h2 className="text-3xl md:text-5xl font-bold mt-2 mb-4 text-gray-800">Making a Difference</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              We measure our success not by metrics alone, but by the lives we've positively impacted.
+              We measure our success not by metrics alone, but by the lives we&apos;ve positively impacted.
             </p>
           </motion.div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
