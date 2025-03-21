@@ -3,6 +3,60 @@ export const emotionalStories = [
     title: "The Shattered Trust",
     emotion: "anger",
     content:
+      "Liam found a note that proved his friend had betrayed him. His hands shook, and his face turned red with anger. He couldn’t believe someone so close could break his trust like that.",
+    emoji: "😠",
+  },
+  {
+    title: "Night Whispers",
+    emotion: "fear",
+    content:
+      "Emma walked through a dark, empty house. Strange sounds and shadows followed her every step. Her heart beat fast as fear took over, making her wish she had never entered.",
+    emoji: "😨",
+  },
+  {
+    title: "The Hidden Decay",
+    emotion: "disgust",
+    content:
+      "Mark expected something exciting but found a place full of garbage and a terrible smell. Rotten food and dirty walls made him feel sick. He wanted to leave right away.",
+    emoji: "🤢",
+  },
+  {
+    title: "A Day in the City",
+    emotion: "neutral",
+    content:
+      "Alex walked through the city like always. Nothing special happened. People were busy, cars moved, and everything felt normal. It was just another regular day.",
+    emoji: "😐",
+  },
+  {
+    title: "Midnight Farewell",
+    emotion: "sadness",
+    content:
+      "Nora stood alone under a streetlight, holding an old photo. Tears ran down her face as she missed her family. The silence made her feel even more alone.",
+    emoji: "😢",
+  },
+  {
+    title: "Unexpected Turn",
+    emotion: "surprise",
+    content:
+      "Oliver opened a package he didn’t expect. Inside was a letter with a family secret. He was shocked and full of questions. Everything changed in that moment.",
+    emoji: "😮",
+  },
+  {
+    title: "A Day of Sunshine",
+    emotion: "joy",
+    content:
+      "Mia smiled as she walked through the sunny park. People laughed, music played, and the world felt happy. Her heart was full of joy and peace.",
+    emoji: "😊",
+  },
+];
+
+
+// ==== v1.0 ====
+export const emotionalStories1 = [
+  {
+    title: "The Shattered Trust",
+    emotion: "anger",
+    content:
       "Liam stared at the crumpled note on his desk—a note that confirmed his worst suspicions. Betrayal had seeped into every word; his closest colleague had broken his trust by making a secret deal behind his back. The roaring injustice ignited a fierce, burning anger within him, fueling a need for retribution. Every syllable of the note echoed in his mind, each one a spark that lit the flames of defiance. In that charged moment, anger surged so powerfully that it seemed to reshape the very air around him.",
     emoji: "😠",
   },

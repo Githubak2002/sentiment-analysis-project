@@ -18,9 +18,13 @@ const Navbar = () => {
           </Link>
           <Link href="#features" className="hover:text-teal-300">Features
           </Link>
-          <Link href="#how-it-works" className="hover:text-teal-300">How It Works
+          {/* <<Link href="#how-it-works" className="hover:text-teal-300">How It Works
           </Link>
-          <Link href="#pricing" className="hover:text-teal-300">Pricing
+          Link href="#pricing" className="hover:text-teal-300">Pricing
+          </Link> */}
+          <Link href="/emotion" className="hover:text-teal-300">Content Analysis
+          </Link>
+          <Link href="/social" className="hover:text-teal-300">Post Analysis
           </Link>
         </div>
 
