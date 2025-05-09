@@ -14,6 +14,8 @@ Ensure the following tools and services are set up before running the project:
 - RapidAPI Key (for LinkedIn API)
 
 Project Folder Structure
+
+```text
 sentiment-analysis/
 ├── app/
 │   ├── api/
@@ -31,6 +33,8 @@ sentiment-analysis/
 ├── package.json
 ├── next.config.mjs
 └── tailwind.config.js
+```
+
 
 Steps to Run the Project Code
 Step 1: Clone the Repository
